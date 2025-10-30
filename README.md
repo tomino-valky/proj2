@@ -25,7 +25,6 @@ Run the script from your terminal:
 python dna_analyzer.py
 The script will prompt you to enter a sequence. Paste or type your sequence and press Enter.
 
-Example
 An example of the script interaction, matching the code's exact output:
 
 Hello, please enter your sequence below: 
