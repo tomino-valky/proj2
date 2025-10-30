@@ -37,5 +37,5 @@ Expected output:
  your sequence: ATTGCTAGGCAAT
  your RNA sequence: AUUGCUAGGCAAU
  your sequence length: 13
-```
  your GC: 0.38
+```
