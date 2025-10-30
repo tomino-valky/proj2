@@ -17,7 +17,7 @@ Python 3.x
 
 No external libraries are required.
 
-**How to Use**
+**How to Use:**
 Save the script as a .py file (e.g., dna_analyzer.py).
 
 Run the script from your terminal:
